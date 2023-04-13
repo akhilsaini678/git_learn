@@ -1,0 +1,1 @@
+This is how does git works from start to end.
